@@ -66,7 +66,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Palnetguy/Palnetguy/output/snake.svg" alt="Snake animation" />
 
 ###
 
